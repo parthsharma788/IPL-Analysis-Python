@@ -1,4 +1,4 @@
-#🏏 IPL Analysis Project
+# 🏏 IPL Analysis Project
 This project involves exploratory data analysis (EDA) of the Indian Premier League (IPL) dataset to uncover insights into team performance, toss decisions, batsman stats, and overall trends across multiple seasons. The analysis was conducted using Python libraries like pandas, matplotlib, and seaborn.
 
 ### 📁 Project Structure
